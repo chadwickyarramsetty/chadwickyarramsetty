@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chadwickyarramsetty
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Structures
+- 🌱 I’m a computer science major and data science minor
 - 💞️ I’m looking to collaborate on code with others
 - 📫 How to reach me - gmail: chadwickyarramsetty@gmail.com Phone Number: 609-850-7440
 - 😄 Pronouns: He/Him
